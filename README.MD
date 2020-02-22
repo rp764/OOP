@@ -1,2 +1,4 @@
-
-hi
+Inheritance - The parent class would be polygon class and the sub classes would be the reactangle class and triangle class. The rectangle class and triangle class both use and inherit the parent class which is the polygon class. Once the subclasses call the parent class it uses whatever is within the class for this intance the width and height to calculate the area. 
+ENCAPSULATION - In this code the speed and color of the car are set within that method. However you can set speed the to a value then have another method obtain the speed. Same with the color. Within the initialization the speed and color are set and you cannot change it however you can set it to something else in a different method. 
+ABTRACT - the class Shape is abtract since it has the @abtractmethod which is imported. The abtract class cannot have values put into it but rather acts as a template from the other classes. 
+POLYMORPHISM - The class parent is used in the class child and the name would be bob in this case. The obj is asking to return the class child which is using the name from the class parent which is bob. So the name bob would be returned. 
